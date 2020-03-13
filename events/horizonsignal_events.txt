@@ -3509,7 +3509,7 @@ planet_event = {						# RETILE
 			has_event_chain = WORM_CHAIN_1
 			NOT = { has_country_flag = alignment_built }
 		}
-		has_deposit = retile_deposit_alignment
+		has_building = building_akx_worm_3
 	}
 
 	immediate = { 
