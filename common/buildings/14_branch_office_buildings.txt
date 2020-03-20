@@ -838,15 +838,6 @@ building_temple_of_prosperity = {
 		job_clerk_add = 1
 		pop_ethic_materialist_attraction_mult = 0.5
 	}
-	
-	triggered_planet_modifier = {
-		potential = {
-			branch_office_owner = { is_criminal_syndicate = yes }	
-		}
-		job_clerk_add = -1
-		job_criminal_add = 1
-		planet_crime_add = 5
-	}
 
 	resources = {
 		category = planet_branch_office_buildings
